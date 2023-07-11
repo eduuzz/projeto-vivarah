@@ -112,6 +112,11 @@ ul {
   padding: 24px 0;
 }
 
+ul li p {
+  display: flex;
+  justify-content: center;
+}
+
 ul li a {
   display: flex;
   justify-content: center;
